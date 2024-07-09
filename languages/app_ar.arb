@@ -1,0 +1,26 @@
+{
+  "helloWorld": "مرحبا بك",
+  "welcome": "أهلاً بك",
+  "enterYourPhoneNumner":"أدخل رقم الهاتف",
+  "next": "التالي",
+  "theOTPsent": "تم ارسال رسالة تحقق للرقم: ",
+  "dontReciveOTP": "لم تصل رسالة التحقق؟",
+  "resendOTP": "اعادة ارسال",
+  "verification": "تحقق",
+  "enterSMS": "ادخل رسالة SMS رجاءً",
+
+  "from": "من",
+  "to": "الى",
+  "damascus": "دمشق",
+  "aleppo": "حلب",
+  "hama": "حماه",
+  "homse": "حمص",
+  "tartous": "طرطوس",
+  "nextDay": "اليوم التالي",
+  "preDay": "اليوم السابق",
+  "sorryNoTrip": "عذراً, لا يوجد رحلات متاحة"
+
+
+
+
+}

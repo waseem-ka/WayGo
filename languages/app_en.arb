@@ -1,0 +1,26 @@
+{
+  "helloWorld": "Welcome !",
+  "welcome": "Welcome",
+  "enterYourPhoneNumner": "Enter your phone number",
+  "next": "Next",
+  "theOTPsent": "The OTP sent to: ",
+  "dontReciveOTP": "Don't recive OTP?",
+  "resendOTP": "Resend OTP",
+  "verification": "Verification",
+  "enterSMS": "ُEnter SMS message please",
+
+  "from": "From",
+  "to": "To",
+  "damascus": "Damascus",
+  "aleppo": "Aleppo",
+  "hama": "Hama",
+  "homse": "Homse",
+  "tartous": "Tartous",
+  "nextDay": "Next day",
+  "preDay": "Previos day",
+  "sorryNoTrip": "Sorry there are no trips"
+
+
+
+
+}
